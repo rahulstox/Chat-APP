@@ -1,0 +1,21 @@
+The TEch Stack we Are gonna used in that project is:
+For front end we are gonna used :
+1. HTML
+2. CSS
+3. JAVASCRIPT
+4.React
+5.Redux
+6.MUI V5
+
+For backend we are gonna used :
+1. Node.js
+2. Express.js
+3. MongoDB
+4. Socket.io  
+
+
+Fot Data Base we are gonna used :
+1. MongoDB
+
+2.Storage & Authentication: Supabase integration for media and avatars
+3.State Management: Redux for seamless user experience
